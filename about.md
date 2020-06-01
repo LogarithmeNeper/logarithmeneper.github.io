@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Simple blog in order to centralize information relative to my different and various interests.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interests : Computer science, mathematics, philosophy, politics.
+Languages on this site : FR, EN, IT. More to come, hopefully.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pierre.sibut.bourde@gmail.com](mailto:pierre.sibut.bourde@gmail.com)
