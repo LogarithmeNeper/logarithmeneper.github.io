@@ -13,4 +13,4 @@ Languages on this site : FR, EN, IT. More to come, hopefully.
 
 ### Contact me
 
-[pierre.sibut.bourde@gmail.com](mailto:pierre.sibut.bourde@gmail.com)
+Twitter is a useful platform to get in touch.
